@@ -76,6 +76,8 @@ pagination_dir: page
 #theme: hiker
 theme: phantom
 
+favicon: favicon.ico
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
