@@ -6,9 +6,9 @@
 title: RAVEN ENGI
 subtitle: レイブン エンジ
 description: RAVEN ENGI, レイブン エンジ, ウェブデザイン, IoT, 人工知能
-author: John Doe
-language:
-timezone:
+author: Jerry Lee
+language: ja
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
